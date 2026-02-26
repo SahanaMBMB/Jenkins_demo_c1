@@ -1,3 +1,5 @@
-public class{
-  public static void main(String args[])
-    System.out.print("hello world');}}
+public app.java{
+  public static void main(String args[]){
+    System.out.print("hello world');
+  }
+}
